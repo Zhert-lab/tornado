@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-  <a href="https://github.com/Zhert-lab/tornado/blob/main/README.md">
+  <a href="[https://github.com/Zhert-lab/tornado/blob/main/README.md](https://github.com/Zhert-lab/tornado/tree/main)">
     <img src="images/twister.png" alt="Logo" width="80" height="80">
   </a>
 
